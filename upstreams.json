@@ -1,0 +1,19 @@
+[
+  {
+    "directory": "upstream-main",
+    "repository": "https://github.com/Zagitta/gpu-unlock",
+    "branch": "main",
+    "commit": "4189b17711bd487d9ea4a8ff0055e6d58d19d6d3"
+  },
+  {
+    "directory": "upstream-4090",
+    "repository": "https://github.com/elias-gaeros/gpu-unlock",
+    "branch": "rtx4090",
+    "commit": "4ec490d49c1cc292c0b4cd5ce5a801b5d2c396dc"
+  },
+  {
+    "directory": "windows",
+    "repository": "https://huggingface.co/TOTORONG/AD103_win_unlocker",
+    "revision": "51df9c17ec89eb8486df52cc9079dde4bd1f9974"
+  }
+]
